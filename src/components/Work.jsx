@@ -10,19 +10,19 @@ const workData = [
       solutions to all concerns related to mental health care and
       maintenance. Join the pioneers who have created healthier
       workplaces for 10+ million lives`,
-    imgSrc: "src/assets/images/2613733.webp",
+    imgSrc: "./assets/images/2613733.",
     imgAlt: "Corporates Image",
   },
   {
     title: "Institutions",
     description: `We assist leading institutes in creating healthier, more flourishing and non-judgemental campuses. Our technological platform offers non-stigmatic solutions to all the mental health care concerns. Join the leaders who helped create happier campuses for 10+ million lives.`,
-    imgSrc: "src/assets/images/3326540.webp",
+    imgSrc: "./assets/images/3326540.",
     imgAlt: "Institutions Image",
   },
   {
     title: "Therapists",
     description: `We help all kinds of mental health professionals get the patient that fits their expertise easily through our platform. Join our space where we connect with professionals, communicate and operate on creating healthier and happier lives!`,
-    imgSrc: "src/assets/images/7355084.webp",
+    imgSrc: "./assets/images/7355084.",
     imgAlt: "Therapists Image",
   },
 ];

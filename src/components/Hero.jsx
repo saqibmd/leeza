@@ -19,7 +19,7 @@ const Hero = () => {
       </div>
       <div className="relative w-full h-72 sm:h-96 lg:absolute lg:top-[20%] lg:right-[5%] lg:w-72 lg:h-72 bg-red-200 overflow-hidden mt-6 lg:mt-0 z-0">
         <img
-          src="src\assets\images\10847.webp"
+          src="./assets/images/10847.webp"
           alt="Hero"
           className="w-full h-full object-cover object-center"
         />

@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="w-full flex justify-between items-center px-4 sm:px-8 md:px-16 lg:px-20 py-4 bg-white shadow-md relative z-50">
       <div className="w-12 h-12 sm:w-16 sm:h-16">
         <img
-          src="src\assets\images\leeza.webp"
+          src="../../assets/images/leeza.webp"
           alt="Logo"
           className="w-full h-full object-cover"
         />

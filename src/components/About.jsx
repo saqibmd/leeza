@@ -8,7 +8,7 @@ const About = () => {
         <div className="w-24 h-24 overflow-hidden mb-4">
           <img
             className="w-full h-full object-cover object-center"
-            src="src/assets/images/leeza.webp"
+            src="./assets/images/leeza.webp"
             alt=""
           />
         </div>

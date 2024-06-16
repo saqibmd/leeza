@@ -10,7 +10,7 @@ const serviceData = [
       Assessments are designed to analyze various factors to offer a
       comprehensive understanding of individuals current mental condition.`,
     buttonText: "Take Assessment",
-    imgSrc: "srcassetsimages\view-3d-male-teacher.webp",
+    imgSrc: "./assets/images/view-3d-male-teacher.webp",
     imgAlt: "Smart Assessment Image",
   },
   {
@@ -21,7 +21,7 @@ const serviceData = [
       counseling service ensures immediate support for all, prioritizing
       mental wellness.`,
     buttonText: "Book a Session",
-    imgSrc: "src/assets/images/view-3d-man-with-tech-device.webp",
+    imgSrc: "./assets/images/view-3d-man-with-tech-device.webp",
     imgAlt: "Counselling Sessions Image",
   },
   {
@@ -31,7 +31,7 @@ const serviceData = [
       individual user preferences and wellness goals. This helps to keep a
       track on individuals mental health and increase productivity.`,
     buttonText: "Talk to Guin",
-    imgSrc: "src/assets/images/101.webp",
+    imgSrc: "./assets/images/101.webp",
     imgAlt: "AI-Wellness Buddy Image",
   },
   {
@@ -42,7 +42,7 @@ const serviceData = [
       seamless, for a holistic approach. It is multi-lingual, with
       chat/video therapy for convenience.`,
     buttonText: "Connect Now!",
-    imgSrc: "src/assets/images/view-3d-confident-businessman.webp",
+    imgSrc: "./assets/images/view-3d-confident-businessman.webp",
     imgAlt: "AI-Wellness Therapy Image",
   },
 ];
